@@ -2,10 +2,10 @@
 We all know that feeling of our minds wandering of, contemplating what the gods of food will bring us today. 
 In this moment opening the TU Dortmund App seems like a sheer insurmountalbe task.
 
-But fear not, the TU Dortmund Mensa bot is hear. It will send you all the Food options available today right to your smartphone. Each and every day at 11 am (well except weekends obviously).
+But fear not, the TU Dortmund Mensa bot is here. It will send you all the Food options available today right to your smartphone. Each and every day at 11 am (well except weekends obviously).
 
 # Fries Alert
-Some days everything seems dark and bleak. Then you notice at the last moment that the Mensa does'nt even offer fries today.
+Some days everything seems dark and bleak. Then you notice at the last moment that the Mensa doesn't even offer fries today.
 The long and tiring way to the Mensa didn't even pay of. You should have just stayed home.
 
 Introducing the Fries Alert. It will send you a status update each day at 11 am if fries are available or not.
